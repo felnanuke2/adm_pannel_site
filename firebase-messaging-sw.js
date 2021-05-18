@@ -1,6 +1,6 @@
 // console.log("")
-importScripts("https://www.gstatic.com/firebasejs/8.4.0/firebase-app.js");
-importScripts("https://www.gstatic.com/firebasejs/8.4.0/firebase-messaging.js");
+importScripts("https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js");
+importScripts("https://www.gstatic.com/firebasejs/8.6.1/firebase-messaging.js");
 firebase.initializeApp({
     apiKey: "AIzaSyCVX4oJifFSSjp-tOlGmzde73jCmeqrkRY",
     authDomain: "lojavirtual-c82f5.firebaseapp.com",
